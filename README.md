@@ -26,16 +26,16 @@ This dashboard turns data into a clear pathway for action — what to push harde
 
 ## 🖼 Project Screenshots
 
-1. Main Overview Dashboard  
-![Main Dashboard](screenshots/IMG_2601.png)
+1. Main Overview Dashboard
+   (IMG_2601.png)
 
-2. Interactive Tooltip Example  
+3. Interactive Tooltip Example  
 ![Tooltip](screenshots/IMG_2602.png)
 
-3. Geographic Performance Map  
+4. Geographic Performance Map  
 ![World Map](screenshots/IMG_2603.png)
 
-4. Product Detail Drill-Through  
+5. Product Detail Drill-Through  
 ![Product Detail](screenshots/IMG_2604.png)
 
 ## 🛠 Built With
