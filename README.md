@@ -2,7 +2,7 @@
 
 Actionable Insights Over Aesthetics — Power BI Dashboard built with Maven Analytics Adventure Works dataset.
 
-![Dashboard Overview](main/1_Main.png)
+![Dashboard Overview](main/IMG_2601.png)
 
 ## 🎯 The Mission
 
