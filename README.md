@@ -27,16 +27,16 @@ This dashboard turns data into a clear pathway for action — what to push harde
 ## 🖼 Project Screenshots
 
 1. Main Overview Dashboard
-   (IMG_2601.png)
+   ![adventure-works-product-performance](IMG_2601.png)
 
-3. Interactive Tooltip Example  
-![Tooltip](screenshots/IMG_2602.png)
+2. Interactive Tooltip Example  
+![adventure-works-product-performance](IMG_2602.png)
 
-4. Geographic Performance Map  
-![World Map](screenshots/IMG_2603.png)
+3. Geographic Performance Map
+   ![adventure-works-product-performance](IMG_2603.png)
 
-5. Product Detail Drill-Through  
-![Product Detail](screenshots/IMG_2604.png)
+4. Product Detail Drill-Through  
+![adventure-works-product-performance](IMG_2604.png)
 
 ## 🛠 Built With
 
